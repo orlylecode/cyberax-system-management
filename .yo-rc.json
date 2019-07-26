@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "cyberaxSystem",
+    "packageName": "com.cogitech.cyberax",
+    "packageFolder": "com/cogitech/cyberax",
+    "serverPort": 6663,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "MjdiNmU3NjJkMjcyYjBiYTU1MjlmY2FiOTQzNTM2ZWI3OGJlYjRhZTNmNjAzZGMxNGQ0NjNkYjNlYmNmZDk2ZGM1NmU0OTQzNjk2ZjUzNDBlMzZmMzkzNjcwOTExYjkzYzQ2OWI5MmVkNzUyZGJiNGEyMTNjMTNiZDhiZTA4ZTQ=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "orlylecode",
+  "repository-name": "cyberax-system-management"
+}
